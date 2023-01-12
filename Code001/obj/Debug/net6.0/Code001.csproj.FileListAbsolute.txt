@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\bin\Debug\net6.0\Code001.exe
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\bin\Debug\net6.0\Code001.deps.json
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\bin\Debug\net6.0\Code001.runtimeconfig.json
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\bin\Debug\net6.0\Code001.dll
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\bin\Debug\net6.0\Code001.pdb
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.AssemblyInfo.cs
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.dll
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\refint\Code001.dll
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.pdb
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\Code001.genruntimeconfig.cache
+C:\Users\user\Desktop\GIT_HOME_WORK_LESSON2\Code\Code001\obj\Debug\net6.0\ref\Code001.dll
